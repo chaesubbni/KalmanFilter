@@ -3,9 +3,11 @@
 This repository contains my study notes and implementations related to the Kalman Filter.
 
 
-## Folders
 
-###`Noise_filtering/`
+
+# Folders
+
+##`Noise_filtering/`
 
   
 This folder contains MATLAB code that applies a **Kalman Filter to correct noise** in sensor data.
