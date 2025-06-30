@@ -14,7 +14,7 @@ This folder contains MATLAB code that applies a **Kalman Filter to correct noise
 It demonstrates how the filter smooths raw voltage readings and improves signal quality.
 
 
-## 'Enhanced State Estimation Using Unobserved Variables/'
+## Enhanced State Estimation Using Unobserved Variables/
 
 
 This folder contains MATLAB code that applies a ** Kalman Filter to observe state**.
