@@ -35,5 +35,6 @@ This folder contains MATLAB code for applying a Kalman filter to sensor data.
 
 ## Output Example3 - 속도로 위치 추정하기
 위치를 추정하는데 속도의 노이즈가 덤으로 줄어들음. 또한 가속도를 사용해 속도를 예측해 노이즈를 더 줄임. 
+
 State variables = [position velocity acceleration]
 
