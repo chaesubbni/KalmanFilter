@@ -40,3 +40,12 @@ This folder contains MATLAB code for applying a Kalman filter to sensor data.
 
 State variables = [position velocity acceleration]
 
+![image](https://github.com/user-attachments/assets/ed343206-5a74-4876-9ae1-401505809807)
+
+
+## 속도 정확도 비교(위치 속도 vs 위치 속도 가속도)
+
+![image](https://github.com/user-attachments/assets/be38bdf3-dda1-4342-b8f7-81c3c6fe9c51)
+
+확실히 상태변수를 하나 더 추가시킨게 좀 더 노이즈가 제거된 느낌
+
