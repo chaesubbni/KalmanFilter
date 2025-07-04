@@ -6,7 +6,7 @@ This folder handles accelerometer, gyroscope, and magnetometer data from the Ard
 
 ## Files
 상태변수 위치, 속도를 이용해 위치 추정.
-- `imu_data_receive_to_arduino.m`: recevie sensor data by arduino serial
+- `imu_data_receive_to_arduino.m`: recevie sensor data by arduino serial and download them
 - `imu_dataa_transmission_to_matlab`: transmission sensor data to matlab
 
 
